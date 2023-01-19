@@ -4,7 +4,7 @@ https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
 
 so dari penjelasan di atas katanya kita bakalan ngebikin game tebak2an angka random atau judi SLOT...!!!(matamu a), di mana nantinya kita akan menebak angka 1 sampai 100,
 
-jika angkanya lebih besar dari angka maka harus mengulangnya dan bakal di beri tahu kalo angkanya terlalu besar, jika terlalu kecil sebaliknya, dan jika sama makan bakal menang initinya gitulah.
+jika angkanya lebih besar dari secret angka maka harus mengulangnya dan bakal di beri tahu kalo angkanya terlalu besar, jika terlalu kecil sebaliknya, dan jika sama maka bakal menang initinya gitulah.
 
 lanjut ke pembahasan kodenya line by line kita mulai dari Cargo.toml
 
